@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a266d04a.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.7e3638d8.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.7e3638d8.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.565a7c55.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.565a7c55.js.map",
-    "static/css/2.e4346227.chunk.css": "/react-gh-pages/static/css/2.e4346227.chunk.css",
-    "static/js/2.456ada88.chunk.js": "/react-gh-pages/static/js/2.456ada88.chunk.js",
-    "static/js/2.456ada88.chunk.js.map": "/react-gh-pages/static/js/2.456ada88.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.523606d178467d2dacdf03f24942ab7a.js": "/react-gh-pages/precache-manifest.523606d178467d2dacdf03f24942ab7a.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/react-gh-pages/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.a266d04a.chunk.css.map": "/react-gh-pages/static/css/main.a266d04a.chunk.css.map",
-    "static/js/2.456ada88.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.456ada88.chunk.js.LICENSE.txt"
+    "main.css": "/React-Portfolio/static/css/main.a266d04a.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.48040aec.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.48040aec.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.b80a39b6.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.b80a39b6.js.map",
+    "static/css/2.e4346227.chunk.css": "/React-Portfolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.456ada88.chunk.js": "/React-Portfolio/static/js/2.456ada88.chunk.js",
+    "static/js/2.456ada88.chunk.js.map": "/React-Portfolio/static/js/2.456ada88.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.ae6be2d28a00b9ed739ba04383f9bb2c.js": "/React-Portfolio/precache-manifest.ae6be2d28a00b9ed739ba04383f9bb2c.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/React-Portfolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.a266d04a.chunk.css.map": "/React-Portfolio/static/css/main.a266d04a.chunk.css.map",
+    "static/js/2.456ada88.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.456ada88.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.565a7c55.js",
+    "static/js/runtime-main.b80a39b6.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.456ada88.chunk.js",
     "static/css/main.a266d04a.chunk.css",
-    "static/js/main.7e3638d8.chunk.js"
+    "static/js/main.48040aec.chunk.js"
   ]
 }
