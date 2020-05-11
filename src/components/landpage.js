@@ -12,7 +12,7 @@ class landPage extends Component {
                 <h1>Elam Day-Friedland</h1>
                 <hr/>
                 <p>
-                    Python | C++ | JavaScript/NodeJS | R | DIYBio Machines
+                    Python/R | C++ | JavaScript/NodeJS | DIYBio Machines
                 </p>
                 <div className="social-links">
                 {/* github */}
