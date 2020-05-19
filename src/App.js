@@ -11,20 +11,20 @@ function App() {
     <Header title="Portfolio" scroll className="header-color" onClick="/">
                 <Navigation>
                 <Link to="/ReactPortfolio/">Home</Link>
-                    <Link to="/ReactPortfolio/about/">About Me</Link>
-                    <Link to="/ReactPortfolio/projects/">Projects</Link>
-                    <Link to="/ReactPortfolio/resume/">Resume</Link>
-                    <Link to="/ReactPortfolio/contact/">Contact</Link>
+                    <Link to="/ReactPortfolio/?p=/about/">About Me</Link>
+                    <Link to="/ReactPortfolio/?p=/projects/">Projects</Link>
+                    <Link to="/ReactPortfolio/?p=/resume/">Resume</Link>
+                    <Link to="/ReactPortfolio/?p=/contact/">Contact</Link>
                 </Navigation>
             </Header>
 
         <Drawer title="Portfolio" scroll className="header-color" onClick="/">
             <Navigation>
             <Link to="/ReactPortfolio/">Home</Link>
-            <Link to="/ReactPortfolio/about/">About Me</Link>
-                    <Link to="/ReactPortfolio/projects/">Projects</Link>
-                    <Link to="/ReactPortfolio/resume/">Resume</Link>
-                    <Link to="/ReactPortfolio/contact/">Contact</Link>
+            <Link to="/ReactPortfolio/?p=/about/">About Me</Link>
+                    <Link to="/ReactPortfolio/?p=/projects/">Projects</Link>
+                    <Link to="/ReactPortfolio/?p=/resume/">Resume</Link>
+                    <Link to="/ReactPortfolio/?p=/contact/">Contact</Link>
             </Navigation>
         </Drawer>
         <Content>

@@ -11,7 +11,7 @@ class contact extends Component {
                     src="https://gdurl.com/7o2C" alt="avatar" style={{height:'250px'}}
                     />
                     <p style={{width:'75%',height:'50%',margin:'auto',paddingTop:'1em'}}> 
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+                    Let's make something awesome!
                     </p>
                     </Cell>
                 <Cell col={6}>
@@ -22,21 +22,18 @@ class contact extends Component {
                         <ListItem>
                             <ListItemContent style={{fontSize:'25px',fontFamily:'Anton'}}>
                                 <i className='fa fa-envelope-square' aria-hidden="true" />
-                                 email
+                                 elam (at) elamdayfriedland (dot) com
                                 </ListItemContent>
                         </ListItem>
                         <ListItem>
                             <ListItemContent style={{fontSize:'25px',fontFamily:'Anton'}}>
-                                <i className='fa fa-linkedin' aria-hidden="true" />
-                                 other thing
+                            <a href="https://www.linkedin.com/in/elam-day-friedland-1100501a5/"target="_blank" rel="noopener noreferrer">
+                <i className="fa fa-linkedin"></i>
+                </a>
+                                Message me on LinkedIn!
                                 </ListItemContent>
                         </ListItem>
-                        <ListItem>
-                            <ListItemContent style={{fontSize:'25px',fontFamily:'Anton'}}>
-                                <i className='fa fa-fax' aria-hidden="true" />
-                                 other thing
-                                </ListItemContent>
-                        </ListItem>
+
                         </List>
                         </div>
                 </Cell>
